@@ -1,0 +1,25 @@
+=============================================
+LAPORAN REKAP DAN ANALISIS NILAI MATEMATIKA
+=============================================
+Jumlah data valid : 8
+Nilai rata-rata   : 77.50
+Nilai tertinggi   : 95
+Nilai terendah    : 60
+KKM               : 75
+
+DAFTAR NILAI DAN STATUS KETUNTASAN
+---------------------------------------------
+Nama                     Nilai  Status         
+---------------------------------------------
+Alya                        80  Tuntas         
+Bima                        70  Belum Tuntas   
+Citra                       90  Tuntas         
+Dimas                       75  Tuntas         
+Eka                         60  Belum Tuntas   
+Fajar                       85  Tuntas         
+Gita                        95  Tuntas         
+Hana                        65  Belum Tuntas   
+---------------------------------------------
+Jumlah siswa tuntas       : 5
+Jumlah siswa belum tuntas  : 3
+=============================================

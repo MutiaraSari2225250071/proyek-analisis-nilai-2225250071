@@ -1,0 +1,8 @@
+Alya,80
+Bima,70
+Citra,90
+Dimas,75
+Eka,60
+Fajar,85
+Gita,95
+Hana,65

@@ -1,0 +1,3 @@
+Alya,0
+Bima,80
+Citra,100
